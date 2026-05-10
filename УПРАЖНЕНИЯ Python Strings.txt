@@ -1,0 +1,110 @@
+EXERCISES: Python Strings
+🟢 Task 1 – Create a String
+
+Create a variable:
+
+name = "Boris"
+
+and print it.
+
+🟢 Task 2 – Multi-line String
+
+Make a string on several lines:
+
+Example:
+
+text = """Hello
+I am learning Python
+Strings are fun!"""
+
+Print it.
+
+🟡 Task 3 – Access a letter (indexing)
+
+You have:
+
+word = "Python"
+
+Print the first letter.
+
+👉 expected:
+
+P
+🟡 Task 4 – Last letter
+
+With the same string:
+
+word = "Python"
+
+Print the last letter.
+
+👉 hint:
+negative indexing 😎
+
+🟡 Task 5 – Length of string
+
+You have:
+
+text = "Hello World"
+
+Print how many characters there are.
+
+👉 hint:
+
+len()
+🔴 Task 6 – Upper / Lower
+
+You have:
+
+name = "boris"
+
+Print it:
+
+in uppercase
+
+in lowercase
+
+👉 hint:
+
+.upper()
+.lower()
+🔴 Task 7 – Replace
+
+You have:
+
+sentence = "I like Java"
+
+Replace Java with Python
+
+🔴 Task 8 – Concatenation
+
+Create:
+
+first_name = "Boris"
+
+last_name = "Kolev"
+
+Make:
+
+Full name: Boris Kolev
+🔴 Task 9 – String Formatting
+
+Create:
+
+age = 23
+
+and print:
+
+My name is Boris and I am 23 years old.
+
+with f-string
+
+🔥 BONUS – Slice
+
+You have:
+
+word = "Programming"
+
+Print only:
+
+Program

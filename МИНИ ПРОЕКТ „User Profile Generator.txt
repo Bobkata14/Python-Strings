@@ -1,0 +1,47 @@
+MINI PROJECT: „User Profile Generator“
+🎯 Goal:
+
+To make a program that displays information about a user in a beautiful way.
+
+📋 Conditions
+Create variables:
+first_name
+last_name
+country
+favorite_language
+🖥️ The program should display:
+--- USER PROFILE ---
+
+Full name: Boris Kolev
+Country: Bulgaria
+Favorite language: Python
+
+Name length: 12
+First letter: B
+Last letter: v
+
+Uppercase name: BORIS KOLEV
+Lowercase name: boris kolev
+🧠 Requirements
+
+✔️ use f-string
+✔️ use concatenation or f-string for full name
+✔️ use:
+
+len()
+indexing
+.upper()
+.lower()
+🔥 BONUS
+
+Do:
+
+nickname = full_name[:5]
+
+and print it.
+
+💡 Hint
+
+You can do:
+
+full_name = first_name + " " + last_name
